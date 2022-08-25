@@ -6,7 +6,7 @@ vendors: https://www.sourcecodester.com/php/15485/garage-management-system-using
 
 The program is built using the xmapp-php8.1 version
 
-Login account: mayuri.infospace@gmail.com/rootadmin (Super Admin account)
+Login account: xxx@gmail.com/rootadmin (Super Admin account)
 
 Vulnerability url: ip/garage/php_action/editProductImage.php?id=1
 
