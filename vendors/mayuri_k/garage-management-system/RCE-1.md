@@ -1,4 +1,4 @@
-# Garage Management System v1.0 by mayuri_k has arbitrary code execution (RCE)
+# Garage Management System v1.0 by Alex has arbitrary code execution (RCE)
 
 BUG_Author: Yc liu
 
