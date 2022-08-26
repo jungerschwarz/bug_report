@@ -1,6 +1,6 @@
 # School Activity Updates with SMS Notification v1.0 by janobe has SQL injection
 
-BUG_Author: Yc liu
+BUG_Author: 0xdawn & Yc liu
 
 Login account: admin/admin (Super Admin account)
 
