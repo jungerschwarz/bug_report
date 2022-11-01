@@ -1,6 +1,6 @@
 # Garage Management System v1.0 by Alex has arbitrary code execution (RCE)
 
-BUG_Author: Yc liu
+BUG_Author: Yc liu 0xdawn
 
 vendors: https://www.sourcecodester.com/php/15485/garage-management-system-using-phpmysql-source-code.html
 
